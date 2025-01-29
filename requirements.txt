@@ -1,0 +1,28 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+omegaconf==2.3.0
+jaxtyping
+pyrender
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+diffusers[torch]==0.22.0
+transformers==4.28.1
+opencv-python
+libigl
+einops
+tensorboard
+matplotlib==3.5.0
+imageio>=2.28.0
+imageio[ffmpeg]
+git+https://github.com/NVlabs/nvdiffrast.git
+wandb
+huggingface_hub
+
+plyfile
+git+https://github.com/ashawkey/kiuikit
+scikit-learn
+easydict
+# git+https://github.com/luca-medeiros/lang-segment-anything.git
+
+# gaussian splatting
+gaussiansplatting/submodules/diff-gaussian-rasterization
+gaussiansplatting/submodules/simple-knn
