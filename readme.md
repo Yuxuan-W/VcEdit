@@ -9,7 +9,7 @@ Hong Kong University of Science and Technology,
 Singapore University of Technology and Design,
 Skywork AI
 
-![image](https://github.com/Yuxuan-W/VcEdit/blob/open/figures/teasor.png)
+![image](https://github.com/Yuxuan-W/VcEdit/blob/main/figures/teasor.png)
 
 <br/>
 
