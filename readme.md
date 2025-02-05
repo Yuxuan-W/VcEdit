@@ -1,6 +1,7 @@
 # [ECCV 2024] View-consistent 3D Editing with Gaussian Splatting
 
-### [Project Page](https://vcedit.github.io) | [Paper](https://arxiv.org/abs/2403.11868)
+<a href='https://vcedit.github.io'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
+<a href='https://arxiv.org/abs/2403.11868'><img src='https://img.shields.io/badge/arXiv-2403.11868-b31b1b.svg'></a>  
 
 Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
 
