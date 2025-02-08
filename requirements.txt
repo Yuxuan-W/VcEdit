@@ -21,7 +21,7 @@ plyfile
 git+https://github.com/ashawkey/kiuikit
 scikit-learn
 easydict
-# git+https://github.com/luca-medeiros/lang-segment-anything.git
+git+https://github.com/luca-medeiros/lang-segment-anything.git@9bdf777
 
 # gaussian splatting
 gaussiansplatting/submodules/diff-gaussian-rasterization
