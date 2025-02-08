@@ -27,7 +27,7 @@ conda activate vcedit
 conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1  pytorch-cuda=11.8 -c pytorch -c nvidia
 
 # install requirements
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 <br/>
