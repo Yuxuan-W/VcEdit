@@ -45,7 +45,7 @@ We provide several sample scripts for running the editing process. For example:
 
 `bash script/man_clown.sh`
 
-The editing process typically takes 10 to 25 minutes on a single A100 GPU, depending on the scene size and the number of iterations. The GPU memory usage ranges between 20GB and 40GB.
+The editing process typically takes 10 to 25 minutes on a single A100 GPU, depending on the scene size and the number of iterations. The GPU memory usage ranges between 20GB and 40GB. For panorama samples the memory cost for processing all views (which is unnecessary w.r.t. the performance) is a bit higher than 40GB, you can remove some views in the dataset.
 
 <!-- Note that our editing is based on the image editing achieved by [InfEdit](https://github.com/sled-group/InfEdit/tree/main). Due to the diversity of editing scenarios, not all the prompt generates satisfying results. For example, some prompts lead to editing failure or drastic multi-view inconsistency in InfEdit. Please first try image editing using your prompt in [InfEdit](https://github.com/sled-group/InfEdit/tree/main) for prompt availability and satisfying hyper-parameters. -->
 
